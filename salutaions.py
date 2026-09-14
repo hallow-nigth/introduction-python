@@ -1,0 +1,7 @@
+print("what' your name?")
+prenom = input()
+print("your age?")
+age = input()
+print("your city?")
+ville = input()
+print("Bonjour " + prenom + ", tu as " + age + " et t'habites à " + ville +".")
